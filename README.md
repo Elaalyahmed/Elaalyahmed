@@ -2,8 +2,8 @@
 👀 I’m interested in web development
 🌱 I’m currently learning front-end technologies (HTML, CSS, JavaScript, and more)
 💞️ I’m looking to collaborate on beginner-friendly web projects and open source
-📫 How to reach me: 
-😄 Pronouns: [he/him, she/her, they/them — you can include if you want]
+📫 How to reach me:https://www.instagram.com/__elaalyahmed?igsh=Nmp6ajF5MWhnYXFy 
+😄 Pronouns: ELAALY AHMED
 ⚡ Fun fact: I enjoy learning new tech and turning ideas into websites!
 
 <!---
